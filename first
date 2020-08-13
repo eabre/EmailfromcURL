@@ -4,13 +4,13 @@
 /*
  * This is the list of basic details you need to tweak to get things right.
  */
-#define USERNAME "barann.tanrverdi@gmail.com"
-#define PASSWORD "Ozlem1972"
+#define USERNAME "example@gmail.com"
+#define PASSWORD "password"
 #define SMTPSERVER "smtp.gmail.com"
 #define SMTPPORT ":465" /* it is a colon+port string, but you can set it
                            to "" to use the default port */
-#define RECIPIENT "<barann.tanrverdi@gmail.com>"
-#define MAILFROM "<barann.tanrverdi@gmail.com>"
+#define RECIPIENT "<example@gmail.com>"
+#define MAILFROM "<example@gmail.com>"
 
 #define MULTI_PERFORM_HANG_TIMEOUT 60 * 1000
 
